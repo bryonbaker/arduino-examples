@@ -5,6 +5,6 @@
 		}
 	],
 	"settings": {
-		"python.pythonPath": "/Users/bryon/.virtualenvs/env/bin/python"
+		"python.pythonPath": "/Users/bryon/.virtualenvs/firmata-flash/bin/python"
 	}
 }
