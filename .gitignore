@@ -1,2 +1,3 @@
-blink.code-workspace
-.vscode/settings.json
+
+firmata/firmata-led-flash/blink.code-workspace
+firmata/firmata-led-flash/.vscode/settings.json
